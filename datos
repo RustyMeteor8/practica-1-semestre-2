@@ -1,0 +1,32 @@
+Martínez García Ian Julián (Ingenieria en compuación)
+Guía completa para empezar a programar
+¿Para qué estudiar programación?
+Alta demanda laboral: Las habilidades de programación están en alta demanda en casi todas las industrias, desde la tecnología hasta las finanzas y la salud.
+Salarios competitivos: Los desarrolladores suelen recibir salarios superiores al promedio, especialmente aquellos con habilidades en áreas especializadas como la inteligencia artificial, la ciencia de datos​ y el desarrollo full stack.
+Flexibilidad laboral: Con la programación puedes trabajar de forma híbrida o incluso remota, lo que permite tener un equilibrio entre la vida laboral y personal.
+Algoritmos
+Los algoritmos son secuencias de pasos definidos que una computadora sigue para completar una tarea específica. Imagina que le das a un robot instrucciones detalladas para realizar una actividad, como hacer un café. Cada paso, desde llenar la cafetera hasta servir la taza, es parte de un algoritmo.
+Estructuras de datos
+Las estructuras de datos son métodos para organizar y almacenar datos de manera que sean fáciles de acceder y modificar. Entender estas estructuras es crucial porque cada tipo de estructura de datos es más adecuado para resolver ciertos problemas.
+Lógica de programación
+La lógica de programación se refiere a la habilidad de resolver problemas de manera estructurada usando código.
+Es un enfoque paso a paso para descomponer un problema complejo en partes más pequeñas y manejables, que una computadora pueda entender y ejecutar.
+¿Qué lenguaje de programación aprender primero?
+Uno de los mayores desafíos cuando decides empezar a programar es elegir el primer lenguaje de programación.
+La decisión que tomes dependerá en gran medida de tus objetivos, el tipo de proyectos que te gustaría desarrollar, y en algunos casos, el entorno que te rodea.
+A continuación, exploramos algunos de los lenguajes más recomendados para principiantes y por qué podrían ser la mejor opción para ti.
+1. Python: Ideal para principiantes y más allá
+Python suele ser el primer lenguaje recomendado para quienes están comenzando su camino en la programación. Su sintaxis es clara y simple, lo que lo hace accesible para personas sin experiencia previa en tecnología.
+Además, Python es utilizado en una amplia variedad de campos, desde desarrollo web hasta inteligencia artificial y análisis de datos.
+2. JavaScript: El lenguaje del navegador
+Si tienes interés en el desarrollo web será esencial que aprendas a dominar JavaScript.
+Es el lenguaje que se ejecuta directamente en los navegadores, permitiendo la creación de sitios web interactivos y dinámicos.
+Además, con la creciente popularidad de frameworks y bibliotecas como React y Node.js, JavaScript ha trascendido más allá del navegador para abarcar el desarrollo de aplicaciones completas, desde el front-end hasta el back-end​​.
+3. HTML/CSS: Los fundamentos del desarrollo web
+Aunque no son lenguajes de programación en el sentido tradicional, HTML y CSS son cruciales para cualquiera que quiera trabajar en desarrollo web.
+HTML es el lenguaje de marcado que estructura el contenido de las páginas web, mientras que CSS se utiliza para estilizar ese contenido. Juntos forman la base sobre la cual se construyen todos los sitios web.
+Aprender HTML y CSS es el primer paso para cualquier aspirante a desarrollador web antes de aventurarse en lenguajes de programación más avanzados como JavaScript.
+4. Java: La robustez para aplicaciones a gran escala
+Java es otro lenguaje popular, especialmente en el desarrollo de aplicaciones grandes y escalables.
+Aunque es un poco más complejo que Python o JavaScript, Java es utilizado especialmente para aplicaciones Android y sistemas empresariales.
+Su enfoque orientado a objetos ayuda a los estudiantes a aprender conceptos fundamentales que se pueden aplicar a otros lenguajes de programación​.
